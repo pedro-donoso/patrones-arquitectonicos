@@ -18,6 +18,8 @@ Actúa como intermediario entre el modelo y la vista. Maneja las solicitudes del
 
 ### Modelo Vista Presentador (MVP)
 
+![modelo-vista-controlador-3](https://github.com/user-attachments/assets/51e5118d-d3ee-47cd-8ce3-28680933d038)
+
 #### Modelo (Model):
 
 - Representa la lógica de negocio y los datos de la aplicación.
@@ -37,6 +39,8 @@ Actúa como intermediario entre el modelo y la vista. Maneja las solicitudes del
 - Maneja las solicitudes del usuario, procesa la lógica de negocio y actualiza tanto el modelo como la vista.
 
 ### Modelo Vista ViewModel (MVVM)
+
+![mvvm (1)](https://github.com/user-attachments/assets/4d46362f-f5d4-4697-a274-7f27ce78192d)
 
 #### Modelo:
 
